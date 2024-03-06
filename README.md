@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @snoozepops.
-- 👀 I’m interested in the Supermium Web Browser by win32ss.
+- 👀 I’m interested in the Supermium Web Browser by win32ss : https://github.com/win32ss.
 - 🌱 I’m currently learning about the aforementioned browser.
 - 💞️ I’m not looking to collaborate on anything at this time.
 - 📫 How to reach me N/A.
